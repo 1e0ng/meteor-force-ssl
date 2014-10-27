@@ -9,6 +9,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
+	api.versionsFrom('METEOR@0.9.4');
 	api.use('webapp', 'server');
 	api.use([
 		'underscore',
