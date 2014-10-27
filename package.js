@@ -2,7 +2,7 @@
 // https://github.com/meteor/meteor/blob/release/METEOR%400.9.4/packages/force-ssl/package.js
 
 Package.describe({
-	summary: "This package redirects insecure connections to secure connection. Modified version of Meteor's force-ssl package (https://github.com/meteor/meteor)",
+	summary: "This package redirects insecure connections to secure connection.",
 	version: "0.0.1",
 	name: "jonime:force-ssl",
 	git: "https://github.com/jonime/meteor-force-ssl.git"
